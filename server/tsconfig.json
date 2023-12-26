@@ -1,0 +1,12 @@
+{
+        "compilerOptions": {
+                "module": "NodeNext",
+                "experimentalDecorators": true,
+                "esModuleInterop": true,
+                "moduleResolution": "NodeNext",
+                "outDir": "dist",
+                "target": "es2022",
+                "strict": true
+        },
+        "include": ["src/**/*"]
+}
