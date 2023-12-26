@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
 
-    "name": "Chrome Extension TypeScript Starter",
-    "description": "Chrome Extension, TypeScript, Visual Studio Code",
+    "name": "Cheap Flight Notifier",
+    "description": "Soyez notifié de l'évolution des prix des vols que vous surveillez",
     "version": "1.0",
 
     "options_ui": {
